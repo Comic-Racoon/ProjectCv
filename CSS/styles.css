@@ -1,0 +1,159 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  background-color: #E4f9f5
+}
+
+header
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 12px 12px 12px 12px;
+  
+  
+}
+.Portfolio
+{
+  font-family: "family=Hind:wght@500&display=swap";
+  color: #16bfbf;
+  padding-right: 12px;
+}
+.Header-Element
+{
+  text-decoration: none;
+  font-size: 16px;
+  color: #16bfbf;
+  padding-right: 12px;
+}
+h1
+{
+  margin-top: 0;
+  font-family: 'Arizonia', cursive;
+  font-size: 150px;
+  color: #0db9b9;
+  margin-bottom: 0%;
+  margin-top: 70px;
+  padding-top: 20px;
+  
+}
+h2{
+  margin-top: 0px;
+  font-family: 'Yusei Magic', sans-serif;
+  color: #0db9b9;
+  font-size: 60px;
+}
+
+.top-container
+{
+  background-color: #E4f9f5 ;
+  position: relative;
+  padding-top: 50px;
+}
+
+.Pro{
+  text-decoration: underline;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+hr
+{
+  
+  color: black;
+  height: 2px;
+}
+
+.My-profile-Pic
+{
+ border-radius: 50%;
+  
+}
+
+.m-container
+{
+
+  font-size: 60px;
+  
+}
+
+.My-Skills
+{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  
+}
+
+.Skill-img
+{
+  float: left;
+  margin-right: 30px;
+}
+
+.project
+{
+  margin-top: 50px;
+}
+
+h3{
+  margin-top: 50px;
+  font-size: 30px;
+}
+p{
+  padding-top: 10px;
+  font-size: 25px;
+}
+.img-project
+{
+  float: right;
+}
+.My-Project
+{
+  width: 50%;
+  margin: 0 auto 100px auto;
+  text-align: left;
+  
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 5%;
+  margin: 50px auto;
+
+}
+.Bottom-Container
+{
+  background-color: #16bfbf;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.footer-element
+{
+  text-decoration: none;
+  font-size: 16px;
+  color: #11999E;
+  padding-right: 12px;
+}
+.last-line
+{
+  font-size: 10px;
+  color: #EAF6F6 ;
+}
